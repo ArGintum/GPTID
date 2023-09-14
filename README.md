@@ -19,17 +19,17 @@ File `IntrinsicDim.py' contains class performing <b>P</b>ersistence <b>H</b>omol
 
 Required packages:
 - For PHD estimator:
-  -- NumPy
-  -- SciPy
+  - NumPy
+  - SciPy
 
 - For MLE estimator:
-  -- Scikit-dimensions
+  - Scikit-dimensions
   
 - For language models:
--- Torch
--- Transformers
+  - Torch
+  - Transformers
 
 - Auxillary functions for the example in the notebook:
--- Pandas
--- Sklearn
--- Tqdm
+  - Pandas
+  - Sklearn
+  - Tqdm
