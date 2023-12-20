@@ -1,1 +1,0 @@
-In this folder we will upload data used in our experiments and proposed in our paper dataset of ChatGPT generations in different languages.
